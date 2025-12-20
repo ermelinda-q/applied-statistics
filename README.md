@@ -1,6 +1,7 @@
 # Applied Statistics Repository
 
 **by E. Qejvani**
+***
 
 ## About this Repository
 
